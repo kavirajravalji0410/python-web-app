@@ -59,6 +59,19 @@ docker ps
 ```
 You should see the Django container running with port 8000 exposed.
 
+### Django Build the Docker image
+<img width="1342" height="757" alt="Django build log" src="https://github.com/user-attachments/assets/cfc7f205-22f8-48f5-8390-dbbebc93249b" />
+
+### Django Run the container
+<img width="1340" height="754" alt="Django container run" src="https://github.com/user-attachments/assets/b9e2b5be-8a0e-46ea-96ee-1ba8946b53ef" />
+
+### Django verify the container status and Image
+<img width="1337" height="754" alt="Django image" src="https://github.com/user-attachments/assets/b840dba9-0c38-4771-851f-9f1712ae0b58" />
+
+
+
+
+
 ### Application Access
 
 | Service            | URL                                                          |
@@ -66,6 +79,14 @@ You should see the Django container running with port 8000 exposed.
 | Django Application | [http://localhost:8000](http://localhost:8000)               |
 | Demo Page          | [http://localhost:8000/demo/](http://localhost:8000/demo/)   |
 | Django Admin       | [http://localhost:8000/admin/](http://localhost:8000/admin/) |
+
+### Django Demo Page
+<img width="1268" height="758" alt="Django werbpage URL" src="https://github.com/user-attachments/assets/bf0d2b27-ba8f-457a-ba44-66ebb22d5988" />
+
+### Django Admin Page
+<img width="1304" height="776" alt="Django webpage ADmin" src="https://github.com/user-attachments/assets/04dae6ef-d941-40ed-a79a-5fa00487291f" />
+
+
 
 ### About the Admin Page
 If you open:
